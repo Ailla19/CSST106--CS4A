@@ -102,6 +102,6 @@ cv2_imshow(color_segmented)`
 ![Screenshot 2024-09-06 205652](https://github.com/user-attachments/assets/bf6295df-53c4-4d39-ac4b-f7c04ac9eb58)
 
 ![Screenshot 2024-09-06 203327](https://github.com/user-attachments/assets/f803f0aa-fbd4-4033-9fc6-59b921af03db)
-![Screenshot 2024-09-06 205753](https://github.com/user-attachments/assets/79f48ef5-efc8-46ac-bd37-13ebc682508e)`)
-https://github.com/user-attachments/assets/d91d216a-30bc-4600-ab34-f0602e96bc23
+![Screenshot 2024-09-06 205753](https://github.com/user-attachments/assets/79f48ef5-efc8-46ac-bd37-13ebc682508e)
+
 
